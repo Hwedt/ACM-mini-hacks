@@ -64,3 +64,4 @@ while True:
 	elif (aqi >= 301 and aqi <= 500):
 		message = f"Warning! Air Quality Index is {aqi} in {city}\nEmergency! The entire population is more likely to be affected."
 		print(message)
+	break
