@@ -1,1 +1,1 @@
-The online portal aims to be a user friendly and informative to aid new users in the portal 
+The online portal aims to be a user friendly and informative to aid new users on the portal 
