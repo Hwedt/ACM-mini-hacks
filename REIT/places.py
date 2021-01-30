@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-api_key = 'AIzaSyCfTEyNAbKJUNiQ3V-fXh-xg-88Cg5Z2qg' # You'll need your own API key: https://developers.google.com/places/web-service/get-api-key
+api_key = 'AIzaSyCfTEyNAbKJUNiQ3V-fXh-xg-88Cg5Z2qg'
 api_key1='AIzaSyBIbgNGLY5cYxEvPH843yZ9ZNE5ufMZ3kY'
 address=input('Enter your full address')
 
@@ -99,7 +99,6 @@ business_types = [
 "travel_agency",
 "veterinary_care",
 "zoo"]
-#https://api.mapbox.com/geocoding/v5/mapbox.places/515%2015th%20St%20NW%2C%20Washington%2C%20DC%2020004.json?types=address&access_token=pk.eyJ1IjoiZmFuZWJpdzkyNiIsImEiOiJja2tpZmM3YncxbWlkMnhxdGQxYmV6bWVrIn0.YOGy-6yjvgV9HC6TSXXnoQ
 
 total_results = []
 
@@ -157,4 +156,3 @@ def get_place_website(place_id):
 for loop in business_types:
 	get_nearby_places('{},{}'.format(lat,lon),'{}'.format(loop),'')
 	print(total_results)
-#1793, Lancaster Drive, San Jose, CA
