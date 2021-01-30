@@ -1,2 +1,2 @@
-REITs or  real estate investment trusts are not very popular in India
-They buy 
+REITs or  real estate investment trusts are not very popular in India. 
+To properly analyse and the market value and the increment in the prices of properties across the country, we used the Google places API and the waqi government website to get the living condititons to predict the value offered by the buying into a property. With data of the roads, ammenities, schools, hospitals, transportation and air quality, we aim to predict the 
