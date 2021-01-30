@@ -1,4 +1,4 @@
-#The online portal 
+# The online portal 
 The online portal aims to be a user friendly and informative to aid new users on the portal 
 ![1](https://user-images.githubusercontent.com/48217685/106355216-9da4f600-631c-11eb-969d-3dbc81e4a7fa.png)
 ![2](https://user-images.githubusercontent.com/48217685/106355218-9ed62300-631c-11eb-87ac-ee48235bea8f.png)
